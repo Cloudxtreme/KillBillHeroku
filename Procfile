@@ -1,1 +1,1 @@
-web: kpm install kpm.yml
+web: bash installandrun.sh

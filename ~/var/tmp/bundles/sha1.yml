@@ -1,0 +1,5 @@
+---
+sha1:
+  org.kill-bill.billing.plugin.java:analytics-plugin:jar:0.7.2: 27e8bd174bf1bc1505ec8bdd2a14d6b3305d4240
+  org.kill-bill.billing.plugin.ruby:stripe-plugin:tar.gz:0.2.1: 1d5a06137f7225d526cee01bfbacec7d2830d7aa
+  org.kill-bill.billing:killbill-platform-osgi-bundles-defaultbundles:tar.gz:LATEST: 9f51a73677b8a6c4516000c99ff2baf9fa4ce17c
