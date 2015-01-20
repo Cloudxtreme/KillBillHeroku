@@ -1,0 +1,2 @@
+wget http://search.maven.org/remotecontent?filepath=org/kill-bill/billing/killbill-profiles-killbill/0.13.1/killbill-profiles-killbill-0.13.1-jetty-console.war --output-document=killbilljetty.war
+java -Xmx512m -Xss512k -Dcom.ning.jetty.jdbi.url=jdbc:mysql://bbb4852be53a10:7104d49e@us-cdbr-iron-east-01.cleardb.net/heroku_add2a6088cc9677?reconnect=true -Dcom.ning.jetty.jdbi.user=USER -Dcom.ning.jetty.jdbi.password=PASS -DANTLR_USE_DIRECT_CLASS_LOADING=true -jar killbilljetty.war
