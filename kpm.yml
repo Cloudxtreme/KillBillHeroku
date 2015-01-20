@@ -11,4 +11,4 @@ killbill:
         version: 0.2.1
 kaui:
   version: LATEST
-  webapp_path: /opt/tomcat/webapps/kaui
+  webapp_path: ~/opt/tomcat/webapps/kaui
